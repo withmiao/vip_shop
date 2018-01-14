@@ -1,0 +1,1 @@
+https://github.com/withmiao/vip_shop.git
